@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:00ccff&height=190&section=header&text=VISHNU%20TEJA&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4c1d95,100:7c3aed&height=190&section=header&text=VISHNU%20TEJA%20GURRAM&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 </div>
 
