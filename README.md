@@ -316,24 +316,6 @@ Metrics →  Task completion rate + workflow completion rate
 
 ---
 
-## `> github_system_monitor`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vishnu732&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ccff&text_color=c9d1d9" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu732&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff99&text_color=c9d1d9" height="170" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=vishnu732&theme=dark&hide_border=true&background=0D1117&stroke=00FF99&ring=00CCFF&fire=00FF99&currStreakLabel=00FF99" />
-
-</div>
-
----
-
 ## `> current_build_mode`
 
 ```bash
@@ -357,8 +339,8 @@ Metrics →  Task completion rate + workflow completion rate
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github\&logoColor=ffffff)](https://github.com/vishnu732)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge\&logo=linkedin\&logoColor=00ccff)](ADD_YOUR_LINKEDIN_HERE)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge\&logo=gmail\&logoColor=ff6b6b)](mailto:ADD_YOUR_EMAIL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge\&logo=linkedin\&logoColor=00ccff)](https://www.linkedin.com/in/codewithvishnugurram/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge\&logo=gmail\&logoColor=ff6b6b)](mailto:gurramvishnuteja@gmail.com)
 
 </div>
 
