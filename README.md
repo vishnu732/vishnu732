@@ -357,7 +357,7 @@ Metrics →  Task completion rate + workflow completion rate
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=950&lines=I+don't+just+write+code.;I+design+systems+that+think%2C+learn%2C+and+scale.;AI+is+the+engine.+Software+is+the+body.+Data+is+the+fuel.;Building+the+future%2C+one+intelligent+system+at+a+time." /> </div>
 
 <div align="center">
-```html id="t5ony0"
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:1a0033&height=120&section=footer" />
 
 </div>
